@@ -13,7 +13,7 @@
 1. Pegue a margarina e passe das duas partes do pão
 1. Coloque as duas fatias e queijo e presunto no pão
 
-<img src="https://img.freepik.com/fotos-premium/lanche-brasileiro-tipico-pao-de-sal-com-queijo-mussarela-fatiado-e-pao-frances-de-presunto-no-cafe-da-manha_72932-3625.jpg?w=2000" style="max-width: 100%; width: 800px; box-shadow: 0 4px 8px 0 rgba(0, 229, 255, 0.2), 0 6px 20px 0 rgba(0, 229, 255, 0.2);">
+<img src="https://img.freepik.com/fotos-premium/lanche-brasileiro-tipico-pao-de-sal-com-queijo-mussarela-fatiado-e-pao-frances-de-presunto-no-cafe-da-manha_72932-3625.jpg?w=2000" style="max-width: 100%; width: 500px;">
 
 
 
